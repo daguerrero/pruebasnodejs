@@ -1,0 +1,46 @@
+{
+  "jornada": 1,
+  "local": "New York Jets",
+  "puntoslocal": 0,
+  "coferencialocal": "Americana",
+  "visitante": "Buffalo Bills",
+  "puntosvisitante": 0,
+  "coferenciavisitante": "",
+ "resultado": "Local",
+ "estadio": "Gillete Stadium" 
+}
+
+{
+	"jornada": 1,
+	"local": "Pittsburgh Steelers",
+	"puntoslocal": 0,
+	"conferencialocal": "Americana",
+	"visitante": "Buffalo Bills",
+	"puntosvisitante": 0,
+	"conferenciavisitante": "Americana",
+	"resultado": "Local",
+	"estadio": "Gillete Stadium"
+}
+{
+	"jornada": 1,
+	"local": "Green Bay Packers",
+	"puntoslocal": 0,
+	"conferencialocal": "Nacional",
+	"visitante": "Chicago Bears",
+	"puntosvisitante": 0,
+	"conferenciavisitante": "Nacional",
+	"resultado": "Local",
+	"estadio": "Soldier Field"
+}
+
+SOCCER
+
+{
+	"jornada": 1,
+	"local": "Veracruz",
+	"goleslocal": 2,
+	"visitante": "Chivas",
+	"golesvisitante": 0,
+	"resultado": "Local",
+	"estadio": "Luis Pirata Fuente"
+}
